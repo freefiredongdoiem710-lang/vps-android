@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://surrey-trout-cross-continue.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://models-organized-inspector-carlo.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-12 20:41:59 UTC
+Created   : 2026-08-13 01:05:58 UTC
 =======================================================
