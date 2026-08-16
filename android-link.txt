@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://newman-expanding-chains-plaza.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://converted-perspective-associate-kenny.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-16 05:28:53 UTC
+Created   : 2026-08-16 10:23:01 UTC
 =======================================================
