@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://blonde-assured-onto-graduated.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://sponsors-roster-volume-larry.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-30 10:20:53 UTC
+Created   : 2026-08-30 18:24:49 UTC
 =======================================================
