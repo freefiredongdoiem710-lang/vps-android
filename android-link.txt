@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://collins-train-oxide-distinct.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://deutschland-although-delivering-ordered.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-05 13:16:37 UTC
+Created   : 2026-09-05 17:10:28 UTC
 =======================================================
