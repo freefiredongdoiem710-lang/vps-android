@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vendors-sentence-senate-mask.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://international-boulder-module-greg.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-11 09:24:59 UTC
+Created   : 2026-09-11 14:07:45 UTC
 =======================================================
