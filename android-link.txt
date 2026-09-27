@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://eval-whom-hook-operations.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://conversion-amsterdam-inch-hidden.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-27 10:27:10 UTC
+Created   : 2026-09-27 18:54:35 UTC
 =======================================================
