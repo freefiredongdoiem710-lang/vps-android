@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://district-gratis-station-athletics.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://from-guys-fairfield-describing.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-11 02:40:50 UTC
+Created   : 2026-10-11 11:15:12 UTC
 =======================================================
