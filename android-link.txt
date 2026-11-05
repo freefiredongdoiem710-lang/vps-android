@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://kitchen-parish-clothing-combat.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://council-bailey-reaching-arcade.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-05 13:00:46 UTC
+Created   : 2026-11-05 21:27:09 UTC
 =======================================================
