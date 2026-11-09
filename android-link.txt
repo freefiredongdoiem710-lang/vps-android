@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://steering-trade-shower-before.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://phentermine-boundaries-thorough-latter.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-09 03:28:43 UTC
+Created   : 2026-11-09 13:38:38 UTC
 =======================================================
