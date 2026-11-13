@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://disclosure-ricky-freeze-marsh.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://bestsellers-arlington-overnight-mailto.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-13 04:00:01 UTC
+Created   : 2026-11-13 12:52:50 UTC
 =======================================================
